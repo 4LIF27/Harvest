@@ -31,4 +31,4 @@ elif bit == '32bit':
         os.system("chmod +x run")
         os.system("./run")
     else:
-        os.system("./run"
+        os.system("./run")
